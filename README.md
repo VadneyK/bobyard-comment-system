@@ -165,3 +165,15 @@ For production deployment, consider:
 - Adding authentication and authorization
 - Implementing rate limiting
 - Adding comprehensive logging
+
+## 🚀 Bobyard Challenge Complete!
+
+This repository contains a complete full-stack comment system built for the Bobyard coding challenge.
+
+### Quick Demo
+1. Start backend: `cd backend && python manage.py runserver 8000`
+2. Start frontend: `cd frontend && npm start`
+3. Open http://localhost:3000
+
+**Repository**: https://github.com/VadneyK/bobyard-comment-system
+**Pull Request**: Coming soon...
